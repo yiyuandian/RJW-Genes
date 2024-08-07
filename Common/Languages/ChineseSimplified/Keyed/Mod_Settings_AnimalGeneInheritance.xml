@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <rjw_genes_animal_inheritance_settings_enabled_key>启用</rjw_genes_animal_inheritance_settings_enabled_key>
+    <rjw_genes_animal_inheritance_settings_enabled_explanation>如果启用，动物怀孕将尝试继承基因。</rjw_genes_animal_inheritance_settings_enabled_explanation>
+
+    <rjw_genes_animal_inheritance_settings_chance_key>几率</rjw_genes_animal_inheritance_settings_chance_key>
+    <rjw_genes_animal_inheritance_settings_chance_explanation>动物怀孕继承基因的几率。</rjw_genes_animal_inheritance_settings_chance_explanation>
+
+    <rjw_genes_animal_inheritance_settings_added_as_xenogene_key>基因作为异种基因</rjw_genes_animal_inheritance_settings_added_as_xenogene_key>
+    <rjw_genes_animal_inheritance_settings_added_as_xenogene_explanation>如果启用，动物基因将被添加为异种基因。</rjw_genes_animal_inheritance_settings_added_as_xenogene_explanation>
+
+    <rjw_genes_animal_inheritance_settings_ve_genetics_hybridization_key>启用VE遗传学杂交</rjw_genes_animal_inheritance_settings_ve_genetics_hybridization_key>
+    <rjw_genes_animal_inheritance_settings_ve_genetics_hybridization_explanation>如果启用，并且你有VE遗传学模块，将启用杂交系统。</rjw_genes_animal_inheritance_settings_ve_genetics_hybridization_explanation>
+
+    <rjw_genes_animal_inheritance_settings_detailed_debug_key>详细调试</rjw_genes_animal_inheritance_settings_detailed_debug_key>
+    <rjw_genes_animal_inheritance_settings_detailed_debug_explanation>启用详细调试模式。</rjw_genes_animal_inheritance_settings_detailed_debug_explanation>
+</LanguageData>
+

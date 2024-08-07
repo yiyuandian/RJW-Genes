@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 事实上，我们目前还没有发现人类存在真正的费洛蒙，你知道吗？虽然有些气味我们会习惯性地喜欢，但真正作为化学信号触发社会或性反应的费洛蒙尚未在人体中得到确定。然而，在游戏和虚构的世界里，打破科学规则以适应叙事或游戏玩法是完全可以的！这能为游戏内容增添趣味和吸引力。 -->
+  <rjw_genes_aphrodisiac_pheromone.label>诱导性欲</rjw_genes_aphrodisiac_pheromone.label>
+  <rjw_genes_aphrodisiac_pheromone.description>由于闻到发情信息素而导致性欲增加。</rjw_genes_aphrodisiac_pheromone.description>
+  <rjw_genes_aphrodisiac_pheromone.stages.0.label>逐渐消失</rjw_genes_aphrodisiac_pheromone.stages.0.label>
+  <rjw_genes_aphrodisiac_pheromone.stages.1.label>适度</rjw_genes_aphrodisiac_pheromone.stages.1.label>
+  <rjw_genes_aphrodisiac_pheromone.stages.2.label>强</rjw_genes_aphrodisiac_pheromone.stages.2.label>
+
+</LanguageData>

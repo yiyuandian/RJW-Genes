@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 异种 -->
+  <rjw_genes_succubus.label>魅魔</rjw_genes_succubus.label>
+  <rjw_genes_succubus.description>魅魔是经过强烈增强的异星人类。这些美得超自然的生物寄生于精液中的精素。</rjw_genes_succubus.description>
+  <rjw_genes_succubus.descriptionShort>魅魔是美丽且极度饥饿的异星人类。他们通过性交提取受害者的生命力以生存。</rjw_genes_succubus.descriptionShort>
+
+  <rjw_genes_incubus.label>梦魇</rjw_genes_incubus.label>
+  <rjw_genes_incubus.description>梦魇是经过强烈增强的异星人类。这些美得超自然的生物寄生于精液中的精素。</rjw_genes_incubus.description>
+  <rjw_genes_incubus.descriptionShort>梦魇是美丽且极度饥饿的异星人类。他们通过性交提取受害者的生命力以生存。</rjw_genes_incubus.descriptionShort>
+
+  <rjw_genes_cumazone.label>精素斗士</rjw_genes_cumazone.label>
+  <rjw_genes_cumazone.description>精素斗士是一种仅有雌性的异种人类，擅长近战格斗。最初是为闪耀世界的亚马逊社区提供护卫而创造的，但她们通过力量和迎合某些癖好扩展到了其他系统。她们可以利用精素来增强皮肤，在近战中压倒任何对手。而她们获取精素的唯一来源是咬断男性生殖器——因此，确保有稳定的男性受害者供应，或准备突袭毫无防备的边缘星球男人。</rjw_genes_cumazone.description>
+  <rjw_genes_cumazone.descriptionShort>仅有雌性，强大的近战斗士，通过咬断男性生殖器获取精素进行强大的增益。</rjw_genes_cumazone.descriptionShort>
+</LanguageData>

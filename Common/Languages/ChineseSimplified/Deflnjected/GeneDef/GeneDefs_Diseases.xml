@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_genetic_disease_immunity.label>遗传疾病免疫</rjw_genes_genetic_disease_immunity.label>
+  <rjw_genes_genetic_disease_immunity.description>该基因使小人对遗传性性病和其他一些可能带来负面副作用的基因免疫。</rjw_genes_genetic_disease_immunity.description>
+
+  <rjw_genes_minor_vulnerability.label>轻微脆弱</rjw_genes_minor_vulnerability.label>
+  <rjw_genes_minor_vulnerability.description>该基因使小人稍微更脆弱，并成为略微更吸引人的强奸目标。</rjw_genes_minor_vulnerability.description>
+
+  <rjw_genes_major_vulnerability.label>严重脆弱</rjw_genes_major_vulnerability.label>
+  <rjw_genes_major_vulnerability.description>该基因使小人更加脆弱，并成为更吸引人的强奸目标。</rjw_genes_major_vulnerability.description>
+
+
+</LanguageData>
