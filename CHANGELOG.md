@@ -1,3 +1,109 @@
+# 2.3.2 (19-09-2024)
+
+**Changes**:
+
+- Lots of wording-changes provided by @myphicbowser (Thanks!)
+
+**Fixes**:
+
+- Fixed Miss-Firing of GatheredCum Patch after `RJW-Sexperience 1.5.1.5` update (#172, thanks @Ryufas)
+
+**Additions**:
+
+- Simple patch for `Cumpilation_Cum` to give Fertilin too (#172)
+
+# 2.3.1 (13-09-2024)
+
+**Fixes**:
+
+- Asexual Gene (`rjw_genes_no_sex_need`) now gives the `asexual` trait instead of removing Sex Need (#164). Every 3k ticks (every half hour) it sets SexNeed to 60%. 
+- Same changes as Asexual Gene for the Android version `rjw_genes_SexDisabled` (#137)
+- Fixed some references to genes that changed names in patches. 
+- Some hardening against Error on WorldGen (#159)
+
+**Removal**:
+
+- Removed Xenotype Patches for Roos Xenotypes - they were not ported to 1.5 (by Roos, atleast.)
+
+**Known Issues**: 
+
+- There can be an issue with World-Gen, if you use Spawn-RJW-Genes. I hope they address it soon. (#159)
+
+# 2.3.0 (07-09-2024)
+
+**Summary**:
+
+- Migration to RJW 5.5.0, big thanks to @prototype99 (#146)
+
+**Additions**:
+
+- Genes that change Fluid-Types: Milk-Penis, Cum-Breasts & Insect-Spunk. These only overwrite existing Fluid, so if you have a Ovipositor pawn it will make InsectSpunk anyway.
+- Gene: Electric Satisfaction. Charges nearby powernets on orgasm. 
+- Gene: Genetic Disease Carrier. Allows to spread diseases for a week while being immune against them. Chances follow normal infection. (#135)
+
+**Changes**:
+
+- Migration to RJW 5.5.0, big thanks to @prototype99 (#146)
+- Removed some Genitalia and Genes that substituted Race-Support. Golem, Pig, Ghost, Marine and Orc Genitalia are gone (for now), but an enthusiast can surely bring it back.
+- `rjw_genes_evergrowth` is not exclusive with normal genitalia-sizes anymore. 
+- "Very much Cum" Gene -> "Very much Fluid" Gene. Works for all primary genitalia of both genders now.  
+- Introduced a max-severity of 75.0 for Living Cumbucket (#153)
+- Genitalia-Size Genes are now XML-Configurable
+- Genitalia-Size genes are now slightly more pronounced - e.g. large male genitalia go from (0.6 -> 1.01) instead of (0.5 -> 1.0). People were a bit unhappy with seeing "average" penises on their large male genitalia pawns.
+- Due to the pending migration, `rjw_genes_evergrowth` and `rjw_genes_hormonal_saliva` do not produce *oversized* genitalia anymore - they just max out at the moment. I will work on getting this back. 
+
+**Fixes**:
+
+- Reverted the `Missing Body Part` from (#133). Causes issues at World Generation with some other Mods (#157,#159).
+
+**Internal**:
+
+- `GenitaliaFluidChangeExtension` and Extensible Genes that change FluidTypes.
+- Renamed GeneDef from `LitteredBirth` to `rjw_genes_littered_birth` for consistency
+- `BoundedExtension` to provide Upper and Lower Bounds for GenitaliaSizes. 
+- Fixed a tiny yellow startup-warning by deleting a duplicate file. 
+
+*Beta-1* was put up on 03-09-2024.
+
+Since then the Disease Carrier was added and a typo was fixed. 
+
+# 2.2.1 (23-08-2024)
+
+**Changes**:
+
+- Support for `1.5`, `1.4`, ... Folder-Structure
+- Salvaged the `1.4` Folder from `RJW-Genes 1.3.3`. This will be a *frozen* version. 
+- Biotechs Highmates do not get patched Hypersexual anymore. This was wished because Hypersexual is rather heavy. 
+- "No-XXX"-Genes add a `Missing Body Part` Hediff. This was wanted to work better with OTY sized apparel (#133)
+- VGE Hybridization now has a chance to be hybridized. If not met, it will continue with normal bestiality behaviour. 
+- VGE Hybridization can not produce Humans from `DogMan + Dog` anymore, unfortunately. 
+
+**Fixes**:
+
+- Fixed the usage of "Disabled" VGE Hybridization (#116)
+- Changed Version number in manifest.xml (#132)
+- Reduced Log-Level for Likes-Cumflation Debug Messages (#131)
+- Fixed the Localization String for Animal Hybrids (#144) ("Baseliner Bug" still persists, thats all RW not me)
+- Added another null-check for "Offset Lifeforce" (#120,#143)
+- Added a check for LifeForce-Empath having an active life-force gene (#143), which likely threw errors being active despite children not having life-force yet.
+- Added a map-check for LifeForce Empaths. Won't work off-map. (#120)
+- Added another Patch for `Blocked Masturbation` that disables the ThinkNode like Sexperience does (#127,#147). Thanks @TinyMechanoid333 !
+- Fixed males spawning with small-female breasts (#138) by adding a detailed check `should have breasts`
+- Added a `MayRequire="rjw.sexperience"` to the Genies Sex-Curiosity, which was a hidden dependency on sexperience (#136)
+- Updated some Labels and References in patches (#149), thanks @flock-of-birds
+- Removed the Filth-Production for Living-Cum-Bucket (#129). Hope to re-introduce it later but to remove the nullpointers some people get for now. 
+
+**Internal**:
+
+- Way more debug-logs for Animal Pregnancies.
+- Removed seperate debug-logging for Animal_BGS - Just uses the normal setting from RJW-Genes.
+- Merged the behaviour of Twinkifier and Feminizer into one `Patch_Aftersex_ApplyProgressingGeneticTransformations`. This allows for a XML-Only approach to defining more genes like this. Thanks @ArcherSaiter (#145,#150)
+- Moved all DefOfs into it's own source-folder. 
+
+**See Also**: 
+
+- [Wiki Page on Hybridization](https://github.com/vegapnk/RJW-Genes/wiki/Vanilla-Genetics-Expanded-Hybridization)
+
 # 2.2.0 (23-07-2024)
 
 ## Explanations
