@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<StatsReport_NoChildren>这个小人没有孩子。</StatsReport_NoChildren>
-<StatsReport_ManyChildren>这个小人有许多孩子。</StatsReport_ManyChildren>
-<StatsReport_VeryManyChildren>这个小人有非常多的孩子。</StatsReport_VeryManyChildren>
+
+  <StatsReport_NoChildren>殖民者没有孩子。</StatsReport_NoChildren>
+  <StatsReport_ManyChildren>殖民者有不少孩子。</StatsReport_ManyChildren>
+  <StatsReport_VeryManyChildren>殖民者有很多孩子。</StatsReport_VeryManyChildren>
+
 </LanguageData>

@@ -1,40 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <rjw_genes_orgasm_rush.label>高潮冲刺</rjw_genes_orgasm_rush.label>
-  <rjw_genes_orgasm_rush.description>高潮时，携带这种基因的个体会获得活动力的提升。（休息需求会部分得到满足）</rjw_genes_orgasm_rush.description>
+  <rjw_genes_orgasm_rush.label>相位猛冲</rjw_genes_orgasm_rush.label>
+  <rjw_genes_orgasm_rush.description>这种基因的携带者可以在高潮的时候获得强化(填满休息值)</rjw_genes_orgasm_rush.description>
 
-  <rjw_genes_youth_fountain.label>青春之泉</rjw_genes_youth_fountain.label>
-  <rjw_genes_youth_fountain.description>与携带此基因的个体发生性行为会使伴侣略微变年轻。（伴侣仍保持成人状态）</rjw_genes_youth_fountain.description>
+  <rjw_genes_youth_fountain.label>回春技艺</rjw_genes_youth_fountain.label>
+  <rjw_genes_youth_fountain.description>这种基因的携带者会使其性伴侣稍微年轻一些。（性伴侣会保持成年）</rjw_genes_youth_fountain.description>
 
-  <rjw_genes_sex_age_drain.label>年龄吸取</rjw_genes_sex_age_drain.label>
-  <rjw_genes_sex_age_drain.description>进行性行为会将一些伴侣的生命时间转移到自己身上。（个体保持成人状态）</rjw_genes_sex_age_drain.description>
+  <rjw_genes_sex_age_drain.label>青春窃贼</rjw_genes_sex_age_drain.label>
+  <rjw_genes_sex_age_drain.description>这种基因的携带者性行为会窃取性伴侣的寿命。（角色会保持成年）</rjw_genes_sex_age_drain.description>
 
-  <rjw_genes_aphrodisiac_pheromones.label>发情信息素</rjw_genes_aphrodisiac_pheromones.label>
-  <rjw_genes_aphrodisiac_pheromones.description>这个小人的信息素会刺激附近其他人的性欲。</rjw_genes_aphrodisiac_pheromones.description>
+  <rjw_genes_aphrodisiac_pheromones.label>催淫体味</rjw_genes_aphrodisiac_pheromones.label>
+  <rjw_genes_aphrodisiac_pheromones.description>这种基因的携带者会释放一种令周围角色性欲旺盛的信息素。</rjw_genes_aphrodisiac_pheromones.description>
 
   <rjw_genes_sexual_mytosis.label>高潮分裂</rjw_genes_sexual_mytosis.label>
-  <rjw_genes_sexual_mytosis.description>携带此基因的小人的再生体系功能失调，随着多次高潮变得越来越不稳定，最终会进入分裂过程。这将产生一个（生物学上）完全相同的小人，两个双胞胎都处于再生状态。此外，小人能够多次高潮：在更高的不稳定状态下，他们会更快达到高潮。</rjw_genes_sexual_mytosis.description>
+  <rjw_genes_sexual_mytosis.description>这种基因的携带者会在连续不断的高潮中变得不稳定——启动自身的有丝分裂进程。这将会产生另一个与自己相同的生物个体并且两者都将进入再生状态。 另外这些殖民者的性器官异常敏感: 在高度不稳定的状态下，她们更容易高潮。</rjw_genes_sexual_mytosis.description>
 
-  <rjw_genes_hormonal_saliva.label>激素唾液</rjw_genes_hormonal_saliva.label>
-  <rjw_genes_hormonal_saliva.description>这种异种体的小人的唾液会刺激阴茎的生长。经常接触将导致明显的生长。</rjw_genes_hormonal_saliva.description>
+  <rjw_genes_hormonal_saliva.label>荷尔蒙唾液</rjw_genes_hormonal_saliva.label>
+  <rjw_genes_hormonal_saliva.description>这种基因的携带者唾液刺激阴茎的生长，经常接触会导致明显的成长。</rjw_genes_hormonal_saliva.description>
 
-  <rjw_genes_cocoonweaver.label>茧织者</rjw_genes_cocoonweaver.label>
-  <rjw_genes_cocoonweaver.description>携带此基因的小人可以产生一个茧，将无助（或愿意）的受害者准备好以进行繁殖。</rjw_genes_cocoonweaver.description>
+  <rjw_genes_cocoonweaver.label>编织者</rjw_genes_cocoonweaver.label>
+  <rjw_genes_cocoonweaver.description>这种基因的携带者拥有吐丝器官，能够将倒地（或自愿）的目标编织成可供繁殖的苗床。</rjw_genes_cocoonweaver.description>
 
-  <rjw_genes_sex_tamer.label>性驯者</rjw_genes_sex_tamer.label>
-  <rjw_genes_sex_tamer.description>兽交有机会驯化动物或提高它们的训练等级。</rjw_genes_sex_tamer.description>
+  <rjw_genes_sex_tamer.label>兽交训练</rjw_genes_sex_tamer.label>
+  <rjw_genes_sex_tamer.description>这种基因的携带者兽交有机会驯服动物或提高他们的训练。</rjw_genes_sex_tamer.description>
 
-  <rjw_genes_sexual_genetic_swap.label>性遗传交换</rjw_genes_sexual_genetic_swap.label>
-  <rjw_genes_sexual_genetic_swap.description>拥有此基因的角色可能会与其性伴侣交换基因。交换的基因总是内源基因。</rjw_genes_sexual_genetic_swap.description>
+  <rjw_genes_sexual_genetic_swap.label>交换基因</rjw_genes_sexual_genetic_swap.label>
+  <rjw_genes_sexual_genetic_swap.description>这种基因的携带者可能会与他们的性伴侣交换基因。开关基因总是内基因。</rjw_genes_sexual_genetic_swap.description>
 
-  <rjw_genes_sexual_genetic_thief.label>性基因窃贼</rjw_genes_sexual_genetic_thief.label>
-  <rjw_genes_sexual_genetic_thief.description>拥有此基因的角色可能会从其性伴侣那里窃取基因。窃取的基因总是异源基因。</rjw_genes_sexual_genetic_thief.description>
+  <rjw_genes_sexual_genetic_thief.label>基因窃贼</rjw_genes_sexual_genetic_thief.label>
+  <rjw_genes_sexual_genetic_thief.description>这种基因的携带者可能会从他们的性伴侣那里偷走一个基因。偷来的基因总是异种基因。</rjw_genes_sexual_genetic_thief.description>
 
-  <rjw_genes_feminizer.label>女性化者</rjw_genes_feminizer.label>
-  <rjw_genes_feminizer.description>拥有此基因的角色会慢慢将男性性伴侣转变为女性。</rjw_genes_feminizer.description>
+  <rjw_genes_feminizer.label>女性制造</rjw_genes_feminizer.label>
+  <rjw_genes_feminizer.description>这种基因的携带者会慢慢地把男性性伴侣变成女性。</rjw_genes_feminizer.description>
 
-  <rjw_genes_twinkifier.label>萌化者</rjw_genes_twinkifier.label>
-  <rjw_genes_twinkifier.description>拥有此基因的角色会慢慢将男性性伴侣转变为可繁殖的可爱“ twinks”（小清新）。</rjw_genes_twinkifier.description>
+  <rjw_genes_twinkifier.label>美女制造</rjw_genes_twinkifier.label>
+  <rjw_genes_twinkifier.description>这种基因的携带者会慢慢地把男性性伴侣变成美女。</rjw_genes_twinkifier.description>
+
 
 </LanguageData>

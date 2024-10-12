@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_genes_fertilin_lost.label>精素损失</rjw_genes_fertilin_lost.label>
+  <rjw_genes_fertilin_lost.description>损失精素的速度。</rjw_genes_fertilin_lost.description>
+
+  <rjw_genes_succubus_drained.label>精液干涸</rjw_genes_succubus_drained.label>
+  <rjw_genes_succubus_drained.description>这个角色被榨干了。 在完全恢复之前不能被再次榨精。</rjw_genes_succubus_drained.description>
+  <rjw_genes_succubus_drained.stages.0.label>轻微</rjw_genes_succubus_drained.stages.0.label>
+  <rjw_genes_succubus_drained.stages.1.label>中期</rjw_genes_succubus_drained.stages.1.label>
+  <rjw_genes_succubus_drained.stages.2.label>严重</rjw_genes_succubus_drained.stages.2.label>
+
+  <rjw_genes_fertilin_craving.label>精素</rjw_genes_fertilin_craving.label>
+  <rjw_genes_fertilin_craving.description>因精素干涸而变得虚弱。</rjw_genes_fertilin_craving.description>
+  <rjw_genes_fertilin_craving.stages.0.label>轻微</rjw_genes_fertilin_craving.stages.0.label>
+  <rjw_genes_fertilin_craving.stages.1.label>中期</rjw_genes_fertilin_craving.stages.1.label>
+  <rjw_genes_fertilin_craving.stages.2.label>严重</rjw_genes_fertilin_craving.stages.2.label>
+
+  <rjw_genes_naked_prowess.label>强韧肌肤</rjw_genes_naked_prowess.label>
+  <rjw_genes_naked_prowess.description>该角色的力量和恢复力被精素强化了。</rjw_genes_naked_prowess.description>
+
+
+</LanguageData>

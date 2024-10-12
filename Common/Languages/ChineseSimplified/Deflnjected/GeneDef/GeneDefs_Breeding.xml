@@ -1,35 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- 繁殖相关 -->
-  <!-- rjw_genes_mechbreeder、rjw_genes_insectincubator 和 rjw_genes_insectbreeder 是由 `Shabalox` 提供的
-  https://github.com/Shabalox/RJW_Genes_Addons/ -->
-  <rjw_genes_mechbreeder.label>机械繁殖者</rjw_genes_mechbreeder.label>
-  <rjw_genes_mechbreeder.description>拥有此基因的小人可以无伤地诞生机械体。</rjw_genes_mechbreeder.description>
+
+  <!-- rjw_genes_mechbreeder,rjw_genes_insectincubator and rjw_genes_insectbreeder were kindly
+  supplied by `Shabalox` https://github.com/Shabalox/RJW_Genes_Addons/ -->
+
+  <rjw_genes_mechbreeder.label>机械体妊娠</rjw_genes_mechbreeder.label>
+  <rjw_genes_mechbreeder.description>这种基因的携带者在生育机械族时不会受到伤害。</rjw_genes_mechbreeder.description>
 
   <rjw_genes_zoophile.label>恋兽癖</rjw_genes_zoophile.label>
-  <rjw_genes_zoophile.description>具有此基因的异种型是恋兽癖者。</rjw_genes_zoophile.description>
+  <rjw_genes_zoophile.description>这种基因的携带者拥有恋兽癖特性。</rjw_genes_zoophile.description>
 
-  <rjw_genes_fertile_anus.label>多产的肛门</rjw_genes_fertile_anus.label>
-  <rjw_genes_fertile_anus.description>具有此基因的异种型，如果没有通过阴道获得子宫，则通过肛门获得一个功能性的子宫。对于男性来说，这个子宫与肛门腔相连，并可以进行正常的怀孕。</rjw_genes_fertile_anus.description>
+  <rjw_genes_fertile_anus.label>丰饶后门</rjw_genes_fertile_anus.label>
+  <rjw_genes_fertile_anus.description>这种基因的携带者即使没有子宫，也会有一个功能正常的子宫——她们的阴道。\n 对于男性来说，它连接到肛门腔并导致正常怀孕。</rjw_genes_fertile_anus.description>
 
-  <rjw_genes_insectincubator.label>昆虫孵化器</rjw_genes_insectincubator.label>
-  <rjw_genes_insectincubator.description>具有此基因的小人能够使放置在体内的昆虫卵受精。</rjw_genes_insectincubator.description>
+  <rjw_genes_insectincubator.label>异虫苗床</rjw_genes_insectincubator.label>
+  <rjw_genes_insectincubator.description>这种基因的携带者子宫将能容纳更多的虫卵。</rjw_genes_insectincubator.description>
 
-  <rjw_genes_insectbreeder.label>昆虫繁殖者</rjw_genes_insectbreeder.label>
-  <rjw_genes_insectbreeder.description>具有此基因的小人能够用任何有生育能力的阴茎使卵受精。</rjw_genes_insectbreeder.description>
+  <rjw_genes_insectbreeder.label>异虫血脉</rjw_genes_insectbreeder.label>
+  <rjw_genes_insectbreeder.description>这种基因的携带者子宫能够直接给虫卵授精，无需雄虫授精。</rjw_genes_insectbreeder.description>
 
-  <rjw_genes_fervent_ovipositor.label>强力产卵器</rjw_genes_fervent_ovipositor.label>
-  <rjw_genes_fervent_ovipositor.description>拥有雌性（产卵）器的小人会以极快的速度生产卵。</rjw_genes_fervent_ovipositor.description>
+  <rjw_genes_fervent_ovipositor.label>密集卵巢</rjw_genes_fervent_ovipositor.label>
+  <rjw_genes_fervent_ovipositor.description>拥有雌性产卵器的殖民者将会更加频繁地产卵。</rjw_genes_fervent_ovipositor.description>
 
-  <rjw_genes_mating_call.label>交配召唤</rjw_genes_mating_call.label>
-  <rjw_genes_mating_call.description>这个基因可以召唤附近的动物并邀请它们进行交配。</rjw_genes_mating_call.description>
+  <rjw_genes_mating_call.label>求偶叫声</rjw_genes_mating_call.label>
+  <rjw_genes_mating_call.description>这种基因的携带者允许呼叫附近的动物并邀请它们交配。</rjw_genes_mating_call.description>
 
-  <rjw_genes_pheromone_spit.label>信息素唾液</rjw_genes_pheromone_spit.label>
-  <rjw_genes_pheromone_spit.description>这个基因可以标记目标进行交配，吸引附近的动物前来交配。</rjw_genes_pheromone_spit.description>
+  <rjw_genes_pheromone_spit.label>信息素吐息</rjw_genes_pheromone_spit.label>
+  <rjw_genes_pheromone_spit.description>这种基因的携带者可以标记繁殖目标，吸引附近的动物繁殖该目标。</rjw_genes_pheromone_spit.description>
 
-  <rjw_genes_hardwired_progenity.label>硬编码繁殖</rjw_genes_hardwired_progenity.label>
-  <rjw_genes_hardwired_progenity.description>携带此基因的生物需要繁殖。如果没有子女，他们会遭受负面影响；如果拥有大量后代，他们的能力会增强。</rjw_genes_hardwired_progenity.description>
+  <rjw_genes_hardwired_progenity.label>繁衍野望</rjw_genes_hardwired_progenity.label>
+  <rjw_genes_hardwired_progenity.description>这种基因的携带者需要繁衍后代。如果他们没有子嗣，将会受到负面影响；而如果他们拥有大量后代，他们的能力将会得到提升。</rjw_genes_hardwired_progenity.description>
 
-  <rjw_genes_basic_rut.label>发情</rjw_genes_basic_rut.label>
-  <rjw_genes_basic_rut.description>携带此基因的生物会进入发情状态，导致性活动显著增加。</rjw_genes_basic_rut.description>
+  <rjw_genes_basic_rut.label>炙热情欲</rjw_genes_basic_rut.label>
+  <rjw_genes_basic_rut.description>这种基因的携带者可以进入一种发热的状态，导致性行为急剧增加。</rjw_genes_basic_rut.description>
+
+
 </LanguageData>

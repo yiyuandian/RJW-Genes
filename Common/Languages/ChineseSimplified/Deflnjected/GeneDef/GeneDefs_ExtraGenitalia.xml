@@ -1,41 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- 器官 -->
-  <rjw_genes_extra_penis.label>额外的阴茎</rjw_genes_extra_penis.label>
-  <rjw_genes_extra_penis.description>该物种的雄性会长出额外的阴茎。</rjw_genes_extra_penis.description>
 
-  <rjw_genes_no_penis.label>无阴茎</rjw_genes_no_penis.label>
-  <rjw_genes_no_penis.description>该物种的雄性没有阴茎。</rjw_genes_no_penis.description>
+  <rjw_genes_extra_penis.label>额外的阴茎</rjw_genes_extra_penis.label>
+  <rjw_genes_extra_penis.description>携带这种基因的男性有一个额外的阴茎。</rjw_genes_extra_penis.description>
+
+  <rjw_genes_no_penis.label>没有阴茎</rjw_genes_no_penis.label>
+  <rjw_genes_no_penis.description>携带这种基因的男性没有阴茎。</rjw_genes_no_penis.description>
 
   <rjw_genes_extra_vagina.label>额外阴道</rjw_genes_extra_vagina.label>
-  <rjw_genes_extra_vagina.description>该物种的雌性会长出一个额外的阴道。</rjw_genes_extra_vagina.description>
+  <rjw_genes_extra_vagina.description>携带这种基因的女性有一个额外的阴道。</rjw_genes_extra_vagina.description>
 
   <rjw_genes_no_vagina.label>没有阴道</rjw_genes_no_vagina.label>
-  <rjw_genes_no_vagina.description>该物种的雌性没有阴道</rjw_genes_no_vagina.description>
+  <rjw_genes_no_vagina.description>携带这种基因的女性没有阴道。</rjw_genes_no_vagina.description>
 
   <rjw_genes_extra_breasts.label>额外乳房</rjw_genes_extra_breasts.label>
-  <rjw_genes_extra_breasts.description>该物种的雌性会长出一对额外的乳房。</rjw_genes_extra_breasts.description>
+  <rjw_genes_extra_breasts.description>携带这种基因的女性有一对额外的乳房。</rjw_genes_extra_breasts.description>
 
   <rjw_genes_no_breasts.label>没有乳房</rjw_genes_no_breasts.label>
-  <rjw_genes_no_breasts.description>该物种的雌性不会长出乳房</rjw_genes_no_breasts.description>
+  <rjw_genes_no_breasts.description>携带这种基因的女性没有乳房。</rjw_genes_no_breasts.description>
 
   <rjw_genes_extra_anus.label>额外肛门</rjw_genes_extra_anus.label>
-  <rjw_genes_extra_anus.description>该物种的雌性会长出一个额外的肛门。</rjw_genes_extra_anus.description>
+  <rjw_genes_extra_anus.description>这种基因的携带者有一个额外的肛门。（译者：那他们用哪个上厕所？）</rjw_genes_extra_anus.description>
 
   <rjw_genes_no_anus.label>没有肛门</rjw_genes_no_anus.label>
-  <rjw_genes_no_anus.description>该物种没有肛门。</rjw_genes_no_anus.description>
+  <rjw_genes_no_anus.description>这种基因的携带者没有肛门。（译者：那他们......）</rjw_genes_no_anus.description>
 
   <rjw_genes_futa.label>扶她</rjw_genes_futa.label>
-  <rjw_genes_futa.description>该物种的雄性会长出额外的雌性生殖器，雌性会长出额外的雄性生殖器。</rjw_genes_futa.description>
+  <rjw_genes_futa.description>携带这种基因的男性会长有阴道，女性会长有阴茎。</rjw_genes_futa.description>
 
-  <rjw_genes_femboy.label>女同性恋</rjw_genes_femboy.label>
-  <rjw_genes_femboy.description>该物种的男性尽管有阴茎，但仍被认为是女性</rjw_genes_femboy.description>
+  <rjw_genes_femboy.label>柔美男孩</rjw_genes_femboy.label>
+  <rjw_genes_femboy.description>携带这种基因的男性虽然拥有生殖器，但仍被视为女性。</rjw_genes_femboy.description>
 
-  <rjw_genes_featureless_chest.label>无特征胸部</rjw_genes_featureless_chest.label>
-  <rjw_genes_featureless_chest.description>该基因的携带者没有乳房或乳头。</rjw_genes_featureless_chest.description>
+  <rjw_genes_featureless_chest.label>光滑胸脯</rjw_genes_featureless_chest.label>
+  <rjw_genes_featureless_chest.description>这种基因的携带者没有乳房和乳头。</rjw_genes_featureless_chest.description>
 
-  <rjw_genes_udder.label>乳房</rjw_genes_udder.label>
-  <rjw_genes_udder.description>该基因的携带者有乳房和乳房。</rjw_genes_udder.description>
+  <rjw_genes_udder.label>乳房器官</rjw_genes_udder.label>
+  <rjw_genes_udder.description>这种基因的携带者会同时拥有乳房和奶乳。</rjw_genes_udder.description>
 
 
 </LanguageData>

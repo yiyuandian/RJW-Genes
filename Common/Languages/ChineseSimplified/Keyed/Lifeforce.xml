@@ -1,19 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <!-- 精素文本 -->
-    <AbilityDisabledNoFertilinGene>小人没有所需的精素基因。</AbilityDisabledNoFertilinGene>
-    <AbilityDisabledNoFertilin>没有足够的精素来施放。</AbilityDisabledNoFertilin>
-    <MentalBreakNoFertilin>这是因为精素不足而导致的精神崩溃。</MentalBreakNoFertilin>
+  <!-- Fertilin strings -->
+  <AbilityDisabledNoFertilinGene>角色没有必要的精素基因。</AbilityDisabledNoFertilinGene>
+  <AbilityDisabledNoFertilin>没有足够的精素来施放。</AbilityDisabledNoFertilin>
+  <MentalBreakNoFertilin>因精素过低而导致。</MentalBreakNoFertilin>
 
-    <AlertLowFertilin>精素水平低</AlertLowFertilin>
-    <AlertLowFertilinDesc>一个殖民者的精素水平很低。在这种情况下，他们可能会因为绝望而考虑强奸和兽交以获取精素（如果他们还没这样做的话）。当精素为零时，他们会失去所有理智，开始随机强奸。</AlertLowFertilinDesc>
+  <AlertLowFertilin>精素过低</AlertLowFertilin>
+  <AlertLowFertilinDesc>殖民者的精素量很低。 她们绝望到想要去通过强奸或兽交来补充精素 (如果她们的精素依旧没有得到补充)。 在零精素的状态下，她们会失去理智并开始随机强奸。</AlertLowFertilinDesc>
 
-    <!-- 魅魔事件 -->
-    <SuccubusLeaving>{0}已经从你的殖民者身上吸取了足够的能量，现在将离开。</SuccubusLeaving>
 
-    <rjw_genes_sexdemon_visit_incident_label>肮脏的梦</rjw_genes_sexdemon_visit_incident_label>
-    <rjw_genes_sexdemon_visit_incident_description>你殖民者的肮脏梦境吸引了魅魔。\n\n她们会在这里逗留几天，试图诱惑你的殖民者。如果她们对你殖民者的性能力印象深刻，可能会决定加入你的殖民地。</rjw_genes_sexdemon_visit_incident_description>
+  <!--Succubus Events-->
+  <SuccubusLeaving>{0} 已经从你的殖民者那里吃饱了，现在正要离开。</SuccubusLeaving>
 
-    <rjw_genes_succubus_joins_letter_label>客人加入</rjw_genes_succubus_joins_letter_label>
-    <rjw_genes_succubus_joins_letter_description>{0}喜欢这里，决定留下来。</rjw_genes_succubus_joins_letter_description>
+  <rjw_genes_sexdemon_visit_incident_label>春梦</rjw_genes_sexdemon_visit_incident_label>
+  <rjw_genes_sexdemon_visit_incident_description>你的殖民者的春梦吸引了魅魔。\n\n她们会逗留几天并试图勾引你的殖民者。如果她们被你的殖民者睡服，她们可能会决定加入你的殖民地。</rjw_genes_sexdemon_visit_incident_description>
+
+  <rjw_genes_succubus_joins_letter_label>访客加入</rjw_genes_succubus_joins_letter_label>
+  <rjw_genes_succubus_joins_letter_description>{0}喜欢这里并决定留下来。</rjw_genes_succubus_joins_letter_description>
+
 </LanguageData>

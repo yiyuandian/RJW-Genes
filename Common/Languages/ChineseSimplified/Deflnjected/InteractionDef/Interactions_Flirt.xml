@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Chitchat reduced copy -->
+
+  <rjw_genes_flirt.label>调情</rjw_genes_flirt.label>
+  <rjw_genes_flirt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] 和 [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</rjw_genes_flirt.logRulesInitiator.rulesStrings.0>
+  <rjw_genes_flirt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] 与 [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</rjw_genes_flirt.logRulesInitiator.rulesStrings.1>
+  <rjw_genes_flirt.logRulesInitiator.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef] 向 [RECIPIENT_nameDef] [commentedabout] [TalkTopicLight].</rjw_genes_flirt.logRulesInitiator.rulesStrings.2>
+  <rjw_genes_flirt.logRulesInitiator.rulesStrings.3>talkedabout(p=4)->闲聊</rjw_genes_flirt.logRulesInitiator.rulesStrings.3>
+  <rjw_genes_flirt.logRulesInitiator.rulesStrings.4>talkedabout->分享一个关于</rjw_genes_flirt.logRulesInitiator.rulesStrings.4>
+  <rjw_genes_flirt.logRulesInitiator.rulesStrings.5>talkedabout->谈到</rjw_genes_flirt.logRulesInitiator.rulesStrings.5>
+  <rjw_genes_flirt.logRulesInitiator.rulesStrings.6>talkedabout->唠叨了</rjw_genes_flirt.logRulesInitiator.rulesStrings.6>
+  <rjw_genes_flirt.logRulesInitiator.rulesStrings.7>talkedabout->谈论</rjw_genes_flirt.logRulesInitiator.rulesStrings.7>
+  <rjw_genes_flirt.logRulesInitiator.rulesStrings.8>talkedabout->打趣</rjw_genes_flirt.logRulesInitiator.rulesStrings.8>
+  <rjw_genes_flirt.logRulesInitiator.rulesStrings.9>talkedabout->调侃</rjw_genes_flirt.logRulesInitiator.rulesStrings.9>
+  <rjw_genes_flirt.logRulesInitiator.rulesStrings.10>commentedabout->说了一些关于</rjw_genes_flirt.logRulesInitiator.rulesStrings.10>
+  <rjw_genes_flirt.logRulesInitiator.rulesStrings.11>commentedabout->说了一句关于</rjw_genes_flirt.logRulesInitiator.rulesStrings.11>
+  <rjw_genes_flirt.logRulesInitiator.rulesStrings.12>commentedabout->谈论</rjw_genes_flirt.logRulesInitiator.rulesStrings.12>
+  <rjw_genes_flirt.logRulesInitiator.rulesStrings.13>commentedabout->评论</rjw_genes_flirt.logRulesInitiator.rulesStrings.13>
+  <rjw_genes_flirt.logRulesInitiator.rulesStrings.14>commentedabout->讲了一个关于</rjw_genes_flirt.logRulesInitiator.rulesStrings.14>
+
+
+</LanguageData>

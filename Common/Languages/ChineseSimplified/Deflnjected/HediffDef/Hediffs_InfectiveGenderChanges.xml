@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_genes_feminization_progress.label>女性制造</rjw_genes_feminization_progress.label>
+  <rjw_genes_feminization_progress.description>某种东西正在改变这个角色——有机会在性别上发展女性特征。</rjw_genes_feminization_progress.description>
+  <rjw_genes_feminization_progress.stages.0.label>可忽视的</rjw_genes_feminization_progress.stages.0.label>
+  <rjw_genes_feminization_progress.stages.1.label>较轻</rjw_genes_feminization_progress.stages.1.label>
+  <rjw_genes_feminization_progress.stages.2.label>严重</rjw_genes_feminization_progress.stages.2.label>
+  <rjw_genes_feminization_progress.stages.3.label>超标</rjw_genes_feminization_progress.stages.3.label>
+
+  <rjw_genes_twinkification_progress.label>美女制造</rjw_genes_twinkification_progress.label>
+  <rjw_genes_twinkification_progress.description>某种东西正在改变这颗棋子——它有机会在性方面变成一只可爱的、可繁殖的小家伙。</rjw_genes_twinkification_progress.description>
+  <rjw_genes_twinkification_progress.stages.0.label>可忽视的</rjw_genes_twinkification_progress.stages.0.label>
+  <rjw_genes_twinkification_progress.stages.1.label>较轻</rjw_genes_twinkification_progress.stages.1.label>
+  <rjw_genes_twinkification_progress.stages.2.label>严重</rjw_genes_twinkification_progress.stages.2.label>
+  <rjw_genes_twinkification_progress.stages.3.label>超标</rjw_genes_twinkification_progress.stages.3.label>
+
+
+</LanguageData>

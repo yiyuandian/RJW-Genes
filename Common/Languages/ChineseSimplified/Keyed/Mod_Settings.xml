@@ -1,46 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <rjw_genes_settings_genitalia_resizing_age>生殖器重塑年龄：</rjw_genes_settings_genitalia_resizing_age>
-    <rjw_genes_settings_genitalia_resizing_postfix>岁</rjw_genes_settings_genitalia_resizing_postfix>
-    <rjw_genes_settings_genitalia_resizing_age_explanation>在这个年龄（以生物年计算），任何重塑基因将被应用。这是为了防止在小人发育过程中生殖器发生变化及相关问题，同时也出于“道德”考虑。</rjw_genes_settings_genitalia_resizing_age_explanation>
+  <rjw_genes_settings_genitalia_resizing_age>生殖器调整年龄:</rjw_genes_settings_genitalia_resizing_age>
+  <rjw_genes_settings_genitalia_resizing_postfix>年</rjw_genes_settings_genitalia_resizing_postfix>
+  <rjw_genes_settings_genitalia_resizing_age_explanation>在这个年龄(生理年龄)，任何调整大小的基因都会被应用。这样做是为了防止殖民者成长过程中与生殖器变化有关的变化和问题，也是为了“道德”。</rjw_genes_settings_genitalia_resizing_age_explanation>
 
-    <rjw_genes_settings_fertilin_gain_from_animals>从动物获得的精素：</rjw_genes_settings_fertilin_gain_from_animals>
-    <rjw_genes_settings_fertilin_gain_from_animals_explanation>获得精素的百分比（与人类基准相比）。</rjw_genes_settings_fertilin_gain_from_animals_explanation>
+  <rjw_genes_settings_fertilin_gain_from_animals>从动物获得的生育力:</rjw_genes_settings_fertilin_gain_from_animals>
+  <rjw_genes_settings_fertilin_gain_from_animals_explanation>%获得的生育力(与人类基线相比)。</rjw_genes_settings_fertilin_gain_from_animals_explanation>
 
-    <rjw_genes_settings_sexdemon_spawn_key>性恶魔访问</rjw_genes_settings_sexdemon_spawn_key>
-    <rjw_genes_settings_sexdemon_spawn_explanation>如果启用，梦魇和魅魔可以通过事件生成。</rjw_genes_settings_sexdemon_spawn_explanation>
-    
-    <rjw_genes_settings_sexdemon_size_matters_key>尺寸重要</rjw_genes_settings_sexdemon_size_matters_key>
-    <rjw_genes_settings_sexdemon_size_matters_explanation>梦魇和魅魔在决定是否加入时会考虑伴侣生殖器的大小/紧致程度。</rjw_genes_settings_sexdemon_size_matters_explanation>
-    
-    <rjw_genes_settings_sexdemon_group_spawn_key>性恶魔群体生成</rjw_genes_settings_sexdemon_group_spawn_key>
-    <rjw_genes_settings_sexdemon_group_spawn_explanation>一个事件中可以生成多个性恶魔。</rjw_genes_settings_sexdemon_group_spawn_explanation>
-    
-    <rjw_genes_settings_sexdemon_succubi_spawn_key>魅魔</rjw_genes_settings_sexdemon_succubi_spawn_key>
-    <rjw_genes_settings_sexdemon_succubi_spawn_explanation>允许魅魔通过这个事件生成。</rjw_genes_settings_sexdemon_succubi_spawn_explanation>
-    
-    <rjw_genes_settings_sexdemon_incubi_spawn_key>梦魇</rjw_genes_settings_sexdemon_incubi_spawn_key>
-    <rjw_genes_settings_sexdemon_incubi_spawn_explanation>允许梦魇通过这个事件生成。</rjw_genes_settings_sexdemon_incubi_spawn_explanation>
+  <rjw_genes_settings_sexdemon_spawn_key>色魔来访</rjw_genes_settings_sexdemon_spawn_key>
+  <rjw_genes_settings_sexdemon_spawn_explanation>如果启用，梦魔和魅魔可以通过事件产生。</rjw_genes_settings_sexdemon_spawn_explanation>
+  <rjw_genes_settings_sexdemon_size_matters_key>尺寸很重要</rjw_genes_settings_sexdemon_size_matters_key>
+  <rjw_genes_settings_sexdemon_size_matters_explanation>梦魔和魅魔会考虑伴侣生殖器的大小/紧度来决定他们是否想要加入</rjw_genes_settings_sexdemon_size_matters_explanation>
+  <rjw_genes_settings_sexdemon_group_spawn_key>色魔组团</rjw_genes_settings_sexdemon_group_spawn_key>
+  <rjw_genes_settings_sexdemon_group_spawn_explanation>在一个事件中可以产生多个色魔</rjw_genes_settings_sexdemon_group_spawn_explanation>
+  <rjw_genes_settings_sexdemon_succubi_spawn_key>魅魔</rjw_genes_settings_sexdemon_succubi_spawn_key>
+  <rjw_genes_settings_sexdemon_succubi_spawn_explanation>允许魅魔在此事件中产生</rjw_genes_settings_sexdemon_succubi_spawn_explanation>
+  <rjw_genes_settings_sexdemon_incubi_spawn_key>梦魔</rjw_genes_settings_sexdemon_incubi_spawn_key>
+  <rjw_genes_settings_sexdemon_incubi_spawn_explanation>允许梦魔在此事件中产生</rjw_genes_settings_sexdemon_incubi_spawn_explanation>
 
-    <rjw_genes_settings_regret_stealing_love_key>后悔偷情</rjw_genes_settings_regret_stealing_love_key>
-    <rjw_genes_settings_regret_stealing_love_explanation>如果关闭，小人不会因勾引而产生负面情绪。</rjw_genes_settings_regret_stealing_love_explanation>
+  <rjw_genes_settings_regret_stealing_love_key>后悔偷了爱</rjw_genes_settings_regret_stealing_love_key>
+  <rjw_genes_settings_regret_stealing_love_explanation>如果关了，殖民者就不会有诱惑的坏念头。</rjw_genes_settings_regret_stealing_love_explanation>
 
-    <rjw_genes_settings_animal_mating_needs_penis_key>动物交配生殖器检查</rjw_genes_settings_animal_mating_needs_penis_key>
-    <rjw_genes_settings_animal_mating_needs_penis_explanation>如果启用，只有能“强奸”的动物才会在受到动物交配脉冲后参与兽交。这通常意味着只有雄性动物会开始繁殖。</rjw_genes_settings_animal_mating_needs_penis_explanation>
+  <rjw_genes_settings_animal_mating_needs_penis_key>动物交配生殖器检查</rjw_genes_settings_animal_mating_needs_penis_key>
+  <rjw_genes_settings_animal_mating_needs_penis_explanation>如果打开，只有“会强奸”的动物在被动物交配脉搏击中后才会进行兽交。这通常意味着只有雄性动物才会开始繁殖。</rjw_genes_settings_animal_mating_needs_penis_explanation>
 
-    <rjw_genes_genetic_disease_header_key>遗传性性病</rjw_genes_genetic_disease_header_key>
-    <rjw_genes_settings_genetic_disease_spread_key>遗传性性病传播</rjw_genes_settings_genetic_disease_spread_key>
-    <rjw_genes_settings_genetic_disease_spread_explanation>如果选中，某些基因将在性行为中传播。</rjw_genes_settings_genetic_disease_spread_explanation>
-    
-    <rjw_genes_genetic_disease_as_endogenes_key>遗传性性病作为内源基因</rjw_genes_genetic_disease_as_endogenes_key>
-    <rjw_genes_genetic_disease_as_endogenes_explanation>如果选中，遗传性疾病将被添加为内源基因。否则，它们将被添加为异源基因。</rjw_genes_genetic_disease_as_endogenes_explanation>
-    
-    <rjw_genes_genetic_disease_spread_only_on_penetrative_sex_key>仅在贯穿性行为中传播遗传性性病</rjw_genes_genetic_disease_spread_only_on_penetrative_sex_key>
-    <rjw_genes_genetic_disease_spread_only_on_penetrative_sex_explanation>如果选中，遗传性性病仅在贯穿性行为中传播。否则，任何类型的性行为都有可能传播。</rjw_genes_genetic_disease_spread_only_on_penetrative_sex_explanation>
+  <rjw_genes_genetic_disease_header_key>遗传性病</rjw_genes_genetic_disease_header_key>
+  <rjw_genes_settings_genetic_disease_spread_key>遗传性性病传播</rjw_genes_settings_genetic_disease_spread_key>
+  <rjw_genes_settings_genetic_disease_spread_explanation>如果经过检查，某些基因会通过性传播。</rjw_genes_settings_genetic_disease_spread_explanation>
+  <rjw_genes_genetic_disease_as_endogenes_key>内源性遗传性性传播疾病</rjw_genes_genetic_disease_as_endogenes_key>
+  <rjw_genes_genetic_disease_as_endogenes_explanation>如果勾选，遗传疾病将被添加为内源性疾病。否则，它们被添加为Xenogenes。</rjw_genes_genetic_disease_as_endogenes_explanation>
+  <rjw_genes_genetic_disease_spread_only_on_penetrative_sex_key>仅通过插入性行为传播遗传性性病</rjw_genes_genetic_disease_spread_only_on_penetrative_sex_key>
+  <rjw_genes_genetic_disease_spread_only_on_penetrative_sex_explanation>如果经过检查，遗传性传播疾病只会通过插入性行为传播。否则，任何性行为都被认为是传播。</rjw_genes_genetic_disease_spread_only_on_penetrative_sex_explanation>
 
-    <rjw_genes_settings_generous_donor_cheatmode_key>慷慨捐赠者作弊模式</rjw_genes_settings_generous_donor_cheatmode_key>
-    <rjw_genes_settings_generous_donor_cheatmode_explanation>启用后，具有“慷慨捐赠者”特性的角色不会被消耗精素，也不会精素枯竭。因此，他们可以无限制地为魅魔和梦魇提供能量。这使得他们的维持变得极其容易，但你不应该这样做。</rjw_genes_settings_generous_donor_cheatmode_explanation>
+  <rjw_genes_settings_generous_donor_cheatmode_key>慷慨的捐赠者欺骗模式</rjw_genes_settings_generous_donor_cheatmode_key>
+  <rjw_genes_settings_generous_donor_cheatmode_explanation>当启用时，“慷慨的捐赠者”的小人不会被抽干，也不会耗尽受精。因此，他们可以不停地为梦魔和魅魔提供燃料。这使得它们非常容易保存，你不应该这样做。</rjw_genes_settings_generous_donor_cheatmode_explanation>
 
-    <rjw_genes_settings_detailed_debug_key>详细调试</rjw_genes_settings_detailed_debug_key>
-    <rjw_genes_settings_detailed_debug_explanation>向日志中添加关于互动和基因的详细信息。</rjw_genes_settings_detailed_debug_explanation>
+  <rjw_genes_settings_detailed_debug_key>debug详细</rjw_genes_settings_detailed_debug_key>
+  <rjw_genes_settings_detailed_debug_explanation>在日志中增加交互和基因的详细信息。</rjw_genes_settings_detailed_debug_explanation>
+
 </LanguageData>

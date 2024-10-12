@@ -1,14 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- 精液相关 -->
-  <rjw_genes_no_cum.label>无精液</rjw_genes_no_cum.label>
-  <rjw_genes_no_cum.description>这些物种的雄性没有体液。</rjw_genes_no_cum.description>
+
+  <!-- Penis -->
+
+  <rjw_genes_no_cum.label>没有精液</rjw_genes_no_cum.label>
+  <rjw_genes_no_cum.description>携带该基因的男性不能繁殖。</rjw_genes_no_cum.description>
 
   <rjw_genes_much_cum.label>大量精液</rjw_genes_much_cum.label>
-  <rjw_genes_much_cum.description>这些物种的雄性产生大量体液。</rjw_genes_much_cum.description>
+  <rjw_genes_much_cum.description>携带该基因的男性会产生大量的精液。</rjw_genes_much_cum.description>
 
-  <rjw_genes_very_much_cum.label>非常大量的精液</rjw_genes_very_much_cum.label>
-  <rjw_genes_very_much_cum.description>这些物种的雄性产生非常多的体液，他们基本上就像喷泉一样。</rjw_genes_very_much_cum.description>
-
+  <rjw_genes_very_much_cum.label>巨量精液</rjw_genes_very_much_cum.label>
+  <rjw_genes_very_much_cum.description>携带该基因的男性射精如同喷泉一般，甚至能够填满一头蓝鲸！</rjw_genes_very_much_cum.description>
 
 </LanguageData>

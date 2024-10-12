@@ -1,46 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- 生殖器种类 -->
-  <rjw_genes_lifeforce.label>精素</rjw_genes_lifeforce.label>
-  <rjw_genes_lifeforce.description>携带这种基因的小人拥有由一种叫做精素的资源驱动的生物力量储备。
-    这种资源可以通过多种方式获得和消耗，其中一些方式由其他基因解锁。\n\n
-    携带者每天由于生物熵会失去5点精素。\n\n
-    基因在携带者能够进行性行为之前处于非激活状态。
-    </rjw_genes_lifeforce.description>
 
-  <rjw_genes_lifeforce_drain.label>精素流失</rjw_genes_lifeforce_drain.label>
-  <rjw_genes_lifeforce_drain.labelShortAdj>流失</rjw_genes_lifeforce_drain.labelShortAdj>
-  <rjw_genes_lifeforce_drain.description>携带者每天由于生物熵会额外失去7.5点精素。</rjw_genes_lifeforce_drain.description>
+  <rjw_genes_lifeforce.label>精素储存</rjw_genes_lifeforce.label>
+  <rjw_genes_lifeforce.description>这种基因的携带者有一种叫作精素的生物资源储备。精素可以通过各种方式获得和使用，其中一些方式是由其他基因解锁的。\n\n携带者因生物熵每天损失5个精素。 \n\n该基因在携带者具备性能力之前是不活跃的。</rjw_genes_lifeforce.description>
 
-  <rjw_genes_pussyhealing.label>蜜穴医生</rjw_genes_pussyhealing.label>
-  <rjw_genes_pussyhealing.labelShortAdj>蜜穴治疗</rjw_genes_pussyhealing.labelShortAdj>
-  <rjw_genes_pussyhealing.description>携带此基因的小人能够通过阴道性交来治疗他人的伤口。</rjw_genes_pussyhealing.description>
+  <rjw_genes_lifeforce_drain.label>漏精</rjw_genes_lifeforce_drain.label>
+  <rjw_genes_lifeforce_drain.description>这种基因的携带者每天额外损失15单位精素。</rjw_genes_lifeforce_drain.description>
 
-  <rjw_genes_cockeater.label>食茎者</rjw_genes_cockeater.label>
-  <rjw_genes_cockeater.labelShortAdj>食茎者</rjw_genes_cockeater.labelShortAdj>
-  <rjw_genes_cockeater.description>携带此基因的小人能够通过吃掉阴茎来恢复精素供应。在此过程中，屌会被消耗掉。</rjw_genes_cockeater.description>
+  <rjw_genes_pussyhealing.label>阴道疗愈师</rjw_genes_pussyhealing.label>
+  <rjw_genes_pussyhealing.description>这种基因的携带者能够通过阴道性交来治疗他人的伤口。</rjw_genes_pussyhealing.description>
 
-  <rjw_genes_paralysingkiss.label>麻痹之吻</rjw_genes_paralysingkiss.label>
-  <rjw_genes_paralysingkiss.labelShortAdj>麻痹之吻</rjw_genes_paralysingkiss.labelShortAdj>
-  <rjw_genes_paralysingkiss.description>携带此基因的小人能够通过一个吻暂时眩晕敌人。</rjw_genes_paralysingkiss.description>
+  <rjw_genes_cockeater.label>阴茎捕食者</rjw_genes_cockeater.label>
+  <rjw_genes_cockeater.description>这种基因的携带者通过吃掉其他角色的阴茎来恢复他们的精素，目标阴茎会在这个过程中被消耗掉。</rjw_genes_cockeater.description>
 
-  <rjw_genes_seduce.label>诱惑</rjw_genes_seduce.label>
-  <rjw_genes_seduce.labelShortAdj>诱惑</rjw_genes_seduce.labelShortAdj>
-  <rjw_genes_seduce.description>携带此基因的小人能够诱惑其他小人与其发生性关系。</rjw_genes_seduce.description>
+  <rjw_genes_paralysingkiss.label>迷魂之吻</rjw_genes_paralysingkiss.label>
+  <rjw_genes_paralysingkiss.description>这种基因的携带者能用一个魅惑的吻短暂地麻痹目标。</rjw_genes_paralysingkiss.description>
 
-  <rjw_genes_naked_prowess.label>裸衣战神</rjw_genes_naked_prowess.label>
-  <rjw_genes_naked_prowess.description>携带此基因的小人在赤裸时能够暂时提高他们的力量和韧性。</rjw_genes_naked_prowess.description>
+  <rjw_genes_seduce.label>魅惑</rjw_genes_seduce.label>
+  <rjw_genes_seduce.description>这种基因的携带者能够诱惑目标来与他们发生性行为。</rjw_genes_seduce.description>
 
-  <rjw_genes_cum_eater.label>食精者</rjw_genes_cum_eater.label>
-  <rjw_genes_cum_eater.description>携带此基因的小人能够通过食用精液吸收精素。这包括口交、以精液为食物或从充满精液的小人中吸取精液。</rjw_genes_cum_eater.description>
+  <rjw_genes_naked_prowess.label>强韧肌肤</rjw_genes_naked_prowess.label>
+  <rjw_genes_naked_prowess.description>在这种基因的携带者赤身裸体的时候，他们能用精素提高赤裸身体的力量和恢复力。</rjw_genes_naked_prowess.description>
 
-  <rjw_genes_fertilin_absorber.label>精素吸收者</rjw_genes_fertilin_absorber.label>
-  <rjw_genes_fertilin_absorber.description>携带此基因的小人能够通过阴道和肛门吸收精液中的精素。</rjw_genes_fertilin_absorber.description>
+  <rjw_genes_cum_eater.label>饮精止渴</rjw_genes_cum_eater.label>
+  <rjw_genes_cum_eater.description>这种基因的携带者能够通过进食精液来获得精素。包括口交，吃掉精液食物或强行从其他角色体内吸出来。</rjw_genes_cum_eater.description>
 
-  <rjw_genes_lifeforce_empath.label>共感生命力</rjw_genes_lifeforce_empath.label>
-  <rjw_genes_lifeforce_empath.description>携带此基因的小人会在附近小人性满足时生成生命力。小心：性挫败的小人会使你的共感者失去生命力！</rjw_genes_lifeforce_empath.description>
+  <rjw_genes_fertilin_absorber.label>黏膜吸收</rjw_genes_fertilin_absorber.label>
+  <rjw_genes_fertilin_absorber.description>这种基因的携带者能够通过阴道和肛门吸收精素。</rjw_genes_fertilin_absorber.description>
 
-  <rjw_genes_drainer.label>活力吸取者</rjw_genes_drainer.label>
-  <rjw_genes_drainer.description>携带此基因的小人能够通过吸取伴侣的活力获得大量精素。这是通过与未被吸取且没有此基因的小人发生性行为被动进行的。</rjw_genes_drainer.description>
+  <rjw_genes_lifeforce_empath.label>同理生命力</rjw_genes_lifeforce_empath.label>
+  <rjw_genes_lifeforce_empath.description>这种基因的携带者会在附近的角色感到性满足时生成生命力。要小心：性沮丧的角色会使你的同理者失去生命力！</rjw_genes_lifeforce_empath.description>
+
+  <rjw_genes_drainer.label>榨汁姬</rjw_genes_drainer.label>
+  <rjw_genes_drainer.description>这种基因的携带者能够通过吸收性伴侣的活力来吸取大量的精素，该行为通过被动地与尚有精液且没有精素基因的其他角色发生性关系来完成。</rjw_genes_drainer.description>
+
 
 </LanguageData>

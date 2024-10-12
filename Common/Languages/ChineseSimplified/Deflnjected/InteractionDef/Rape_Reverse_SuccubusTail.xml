@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rape_SuccubusTail_Reverse_Tailjob.label>魅魔尾巴尾交</Rape_SuccubusTail_Reverse_Tailjob.label>
+  <Rape_SuccubusTail_Reverse_Tailjob.logRulesInitiator.rulesStrings.0>r_logentry->给强迫 [RECIPIENT_nameDef]尾交.</Rape_SuccubusTail_Reverse_Tailjob.logRulesInitiator.rulesStrings.0>
+  <Rape_SuccubusTail_Reverse_Tailjob.logRulesRecipient.rulesStrings.0>r_logentry->被强迫[INITIATOR_nameDef]尾交.</Rape_SuccubusTail_Reverse_Tailjob.logRulesRecipient.rulesStrings.0>
+
+  <Rape_SuccubusTail_Reverse_Vaginal.label>魅魔尾巴插阴</Rape_SuccubusTail_Reverse_Vaginal.label>
+  <Rape_SuccubusTail_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->被 [RECIPIENT_nameDef] 强行用尾巴插了阴道.</Rape_SuccubusTail_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Rape_SuccubusTail_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->用尾巴强行插了 [INITIATOR_nameDef]的阴道.</Rape_SuccubusTail_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>
+
+  <Rape_SuccubusTail_Reverse_Anal.label>魅魔尾巴插肛</Rape_SuccubusTail_Reverse_Anal.label>
+  <Rape_SuccubusTail_Reverse_Anal.logRulesInitiator.rulesStrings.0>r_logentry->被 [RECIPIENT_nameDef] 强行用尾巴插了肛门.</Rape_SuccubusTail_Reverse_Anal.logRulesInitiator.rulesStrings.0>
+  <Rape_SuccubusTail_Reverse_Anal.logRulesRecipient.rulesStrings.0>r_logentry->用尾巴强行插了[INITIATOR_nameDef]的肛门.</Rape_SuccubusTail_Reverse_Anal.logRulesRecipient.rulesStrings.0>
+
+
+  <!-- Top of tail opens up and evelops the penis -->
+
+  <Rape_SuccubusTail_Reverse_Envelop.label>魅魔尾巴包裹</Rape_SuccubusTail_Reverse_Envelop.label>
+  <Rape_SuccubusTail_Reverse_Envelop.logRulesInitiator.rulesStrings.0>r_logentry->用尾巴强行包裹住 [RECIPIENT_nameDef]的老二.</Rape_SuccubusTail_Reverse_Envelop.logRulesInitiator.rulesStrings.0>
+  <Rape_SuccubusTail_Reverse_Envelop.logRulesRecipient.rulesStrings.0>r_logentry->被 [INITIATOR_nameDef]用尾巴强行包裹住老二.</Rape_SuccubusTail_Reverse_Envelop.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>
